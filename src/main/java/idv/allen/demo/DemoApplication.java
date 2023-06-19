@@ -14,7 +14,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		
-		logger.debug("Application start...");
+		logger.debug("Application start...");      //
 		
 		SpringApplication.run(DemoApplication.class, args);
 		
